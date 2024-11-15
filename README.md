@@ -12,11 +12,19 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDh
 The result will be:
 
 https://www.youtube.com/redirect 
-? 
+
+?
+
 event=video_description 
+
 & 
+
 redir_token=QUFFLUhqbDhLTnhNNEhvbEZUQ05kTUtmeEZKSkNxYTRrZ3xBQ3Jtc0ttaW14NjNoYUUycFVMNW1jRGRoWUVlcjluY3U0M2xxbFE1OGU5NTJBR2llYXlLVzZ6anpidmlkRzhoeUd5Wm9DdU4xZHhFWGhQTHd6MUQ4SFhMV0k1U3ZiNk1UR3VYdWg4YVRxdlc1R3pBQjBHdXd1WQ 
+
 & 
+
 q=https://IAmTimCorey.com/ 
+
 & 
+
 v=PFNYV3ZvJOw 
